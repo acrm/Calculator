@@ -8,6 +8,7 @@ namespace Calculator.Tests
 		{
 			Calculator.Logic.Prerequisites.RegisterOperators ();
 			Calculator.Logic.Prerequisites.RegisterBIFs ();
+			jklklj
 			TestCalculator.RunTests ();
 		}
 	}
